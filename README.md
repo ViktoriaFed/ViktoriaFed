@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Viktoria</h1>
-<h3 align="center">I'm a passionate junior full-stack developer transitioning from a background in linguistics to the world of web development.</h3>
+<h1 align="center">Welcome to my GitHub profile 👋</h1>
+<h3 align="center">My name is Viktoria and I'm a passionate junior full-stack developer transitioning from a background in linguistics to the world of web development.</h3>
 <image align="right" width="400" src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" alt="gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viktoriafed&label=Profile%20views&color=0e75b6&style=flat" alt="viktoriafed" /> </p>
