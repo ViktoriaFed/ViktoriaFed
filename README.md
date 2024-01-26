@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **and honing my skills after graduationg from CodeFactory Vienna.**
 
-- 👨‍💻 All of my projects are available on [my Portfolio website][(https://viktoriafed.com/)]
+- 👨‍💻 All of my projects are available on [my Portfolio website](https://viktoriafed.com/)
 
 - 📫 Reach me via **viktoria.fedorova1@gmail.com**
 
