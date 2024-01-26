@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viktoriafed&label=Profile%20views&color=0e75b6&style=flat" alt="viktoriafed" /> </p>
 
-- 🌱 I’m currently learning **and honing my skills at CodeFactory Vienna.**
+- 🌱 I’m currently learning **and honing my skills after graduationg from CodeFactory Vienna.**
 
-- 👨‍💻 All of my projects are available on [my Portfolio website](https://viktoria.codefactory.wien/)
+- 👨‍💻 All of my projects are available on [my Portfolio website][(https://viktoriafed.com/)]
 
 - 📫 Reach me via **viktoria.fedorova1@gmail.com**
 
